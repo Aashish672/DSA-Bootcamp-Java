@@ -4,8 +4,8 @@
 
 ### Easy
 
-7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
-10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)  Done
+10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) Done
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
